@@ -1,3 +1,3 @@
 # Better Than Google LLC
 
-<insert witty description here>
+ - insert witty description here
